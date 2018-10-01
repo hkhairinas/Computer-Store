@@ -1,4 +1,5 @@
 # Computer-Store
 
 Basic Code with HTML
-Example : http://hutomokhairinnas.web.id/
+
+For Example : http://hutomokhairinnas.web.id/
